@@ -2,6 +2,11 @@
 ### High-level API and bindings to Coolermaster SDK
 
 ## Usage
+Remember to put the `SDKDLL.dll` library where you application is! (Keep the name)
+
+Row/column table for single-key colors: 
+https://docs.google.com/spreadsheets/d/1jZHk5ljUsGcfon6_wagOalIdPmNRnPiYoPdCMGlheQk/edit?usp=sharing
+
 ```java
 public class Cm4jExample {
 
